@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/node_modules": true,
+      "**/lib": true,
+      "**/dist": true,
+      // ".expo-shared": true,
+      ".watchmanconfig": true,
+      ".babel.config.js": true,
+      "yarn-error.log": true,
+      "babel.config.js": true,
+      "yarn.lock": true
+    }
+  }
+}
